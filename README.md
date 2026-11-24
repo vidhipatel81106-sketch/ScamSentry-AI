@@ -1,3 +1,4 @@
+
 # 🛡️ ScamSentry AI
 ### Your Digital Guardian Against Online Scams
 
@@ -156,3 +157,5 @@ Developed as a second-year engineering college project.
 ---
 
 **Disclaimer:** ScamSentry AI is an educational cybersecurity awareness project. Its AI analysis and URL checks may not detect every scam. Users should independently verify suspicious messages and websites.
+
+
